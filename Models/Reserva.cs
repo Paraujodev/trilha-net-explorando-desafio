@@ -37,22 +37,19 @@ namespace DesafioProjetoHospedagem.Models
         public int ObterQuantidadeHospedes()
         {
             // TODO: Retorna a quantidade de hóspedes (propriedade Hospedes)
-            // *IMPLEMENTE AQUI*
             return Hospedes.Count;
         }
 
         public decimal CalcularValorDiaria()
         {
             // TODO: Retorna o valor da diária
-            // Cálculo: DiasReservados X Suite.ValorDiaria
-            // *IMPLEMENTE AQUI*
             decimal valor = DiasReservados * Suite.ValorDiaria;
 
             // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
-            // *IMPLEMENTE AQUI*
             if (DiasReservados >=10)
             {
                 valor -= Decimal.Divide(decimal.Multiply(valor,10),100);
+                Console.WriteLine("Parabéns, reservou 10 dias ou mais ganhou 10% de desconto");
             }
 
             return valor;
@@ -61,7 +58,7 @@ namespace DesafioProjetoHospedagem.Models
 
     class Excecao : Exception{
         public Excecao(string mensagem):base(mensagem){
-            //contrutor chmando outro construtor
+            //contrutor chamando outro construtor
         }
     }
 }

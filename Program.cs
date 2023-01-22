@@ -12,14 +12,24 @@ Pessoa p2 = new Pessoa(nome: "Hóspede 2");
 hospedes.Add(p1);
 hospedes.Add(p2);
 
+Console.WriteLine("Qual a capacidade da Suite?");
+int capacidade = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Qual o Valor da Diaria?");
+int valorDiaria = int.Parse(Console.ReadLine());
+
 // Cria a suíte
-Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
+Suite suite = new Suite(tipoSuite: "Premium", capacidade, valorDiaria);
 
 // Cria uma nova reserva, passando a suíte e os hóspedes
-Reserva reserva = new Reserva(diasReservados: 10);
+Console.WriteLine("Quantos dias vai reservar?");
+int diasReservados = int.Parse(Console.ReadLine());
+Reserva reserva = new Reserva(diasReservados);
+
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
+
 // Exibe a quantidade de hóspedes e o valor da diária
-Console.WriteLine($"Hóspedes: {reserva.ObterQuantidadeHospedes()}");
-Console.WriteLine($"Valor diária: {reserva.CalcularValorDiaria()}");
+Console.WriteLine($"Quantidade de Hóspedes: {reserva.ObterQuantidadeHospedes()}");
+Console.WriteLine($"Valor total das diária: R${reserva.CalcularValorDiaria()} Reais");
