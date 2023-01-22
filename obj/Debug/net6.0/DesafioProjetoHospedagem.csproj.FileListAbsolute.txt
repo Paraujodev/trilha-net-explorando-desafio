@@ -1,0 +1,15 @@
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+E:\Bootcamp DIO\Bootcamp Pottencial Seguradora\Segundo Projeto C#\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
